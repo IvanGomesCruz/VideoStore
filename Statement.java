@@ -1,3 +1,3 @@
-public class Statement {
-  public String value(Customer aCustomer);
+abstract public class Statement {
+  public abstract String value(Customer aCustomer);
 }
